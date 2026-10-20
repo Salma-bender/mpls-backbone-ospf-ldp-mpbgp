@@ -118,8 +118,6 @@ Suites logiques pour compléter le lab et couvrir le volet « sécurisé » :
 - Imane ARRACH
 - Salma BENDER
 
-Encadrement : Pr. Yassine SADQI.
-
 ## Licence
 
 Les fichiers de configuration sont publiés sous licence [MIT](LICENSE). Le rapport et la présentation (dossier `docs/`) restent la propriété de leurs auteurs.
