@@ -1,6 +1,6 @@
 # Infrastructure réseau multi-sites MPLS (OSPF · LDP · MP-BGP)
 
-Projet universitaire sur **MPLS (Multi-Protocol Label Switching)** : étude complète de la technologie (VPN, ingénierie de trafic, QoS, tolérance aux pannes, sécurité, comparaison avec SD-WAN) et **mise en œuvre d'un backbone MPLS multi-sites** en laboratoire, avec échange de routes VPNv4 entre routeurs PE via MP-BGP.
+Un projet universitaire sur **MPLS (Multi-Protocol Label Switching)** : étude complète de la technologie (VPN, ingénierie de trafic, QoS, tolérance aux pannes, sécurité, comparaison avec SD-WAN) et **mise en œuvre d'un backbone MPLS multi-sites** en laboratoire, avec échange de routes VPNv4 entre routeurs PE via MP-BGP.
 
 > Faculté des Sciences et Techniques de Marrakech, Université Cadi Ayyad, année universitaire 2024-2025
 > Encadrant : Pr. Yassine SADQI
